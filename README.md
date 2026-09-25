@@ -9,7 +9,8 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Offline--First%20Clean%20MVVM-orange.svg)](architecture.yaml)
 
 ---
-
+yt  prototype video :https://youtu.be/aliJ3QIUUYE?si=KzZkwFEaYftFlAyW
+---
 ## 🌟 Pitch & Vision
 
 In sudden danger, a victim cannot open a complex app, navigate menus, or count on stable 5G connectivity. Traditional safety apps are reactive SOS buttons that fail precisely when needed most: in signal dead zones, jammed crowds, or remote areas.
